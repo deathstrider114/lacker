@@ -4,7 +4,7 @@
   "version": "1.2.11",
   "description": "Lacker for your computer.",
   "author": "terrydavisthe2nd",
-  "homepage": "https://lackerv2.vercel.app",
+  "homepage": "https://nexav3.vercel.app",
   "license": "MIT",
   "private": true,
   "main": "dist-app/main.js",
