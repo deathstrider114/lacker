@@ -20,7 +20,7 @@ type Config struct {
 	// MaintenanceFile is an optional host-written reboot deadline, never a reboot command.
 	MaintenanceFile string
 	Listen          string
-	// PublicURL is Nexa's own address: what its links, previews and the
+	// PublicURL is Lacker's own address: what its links, previews and the
 	// desktop app's updates name.
 	PublicURL string
 	// AltURLs are other addresses the same Nexa is reached at, every one of
@@ -183,7 +183,7 @@ type Config struct {
 func Load(getenv func(string) string) (Config, error) {
 	c := Config{
 		Listen:              "127.0.0.1:8090",
-		PublicURL:           "https://nexa.fish",
+		PublicURL:           "https://lackerv2.vercel.app",
 		DataDir:             "./data",
 		WebDist:             "./web/dist",
 		MaxUploadBytes:      104857600,
