@@ -1,8 +1,8 @@
 {
   "id": "/",
-  "name": "Nexa",
-  "short_name": "Nexa",
-  "description": "End-to-end encrypted chat, voice and servers.",
+  "name": "Lacker",
+  "short_name": "Lacker",
+  "description": "Chat, voice and communities.",
   "categories": ["social", "communication"],
   "start_url": "/channels/@me",
   "scope": "/",
