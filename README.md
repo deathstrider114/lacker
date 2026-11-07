@@ -3,7 +3,7 @@
 Lacker is a self-hosted chat app for communities and private conversations. It has a web
 app, desktop apps for Windows, macOS and Linux, and a native Android app.
 
-Try [Lacker in your browser](https://lackerv2.vercel.app).
+Try [Lacker in your browser](https://nexav3.vercel.app).
 
 ![Lacker's chat interface with a server, channels, messages and member list](web/public/home/app.png)
 
